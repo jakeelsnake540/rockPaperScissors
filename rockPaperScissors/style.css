@@ -1,0 +1,29 @@
+div {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+}
+
+button {
+    width: 30%;
+    height: 200px;
+    color: blue;
+    background-color: aquamarine;
+    font-size: 50px;
+    border-radius: 20px;
+    cursor: pointer;
+    align-self: center;
+}
+    
+.score {
+    margin: 30px 30px 30px 30px;
+    
+}
+.score p {
+    font-size: 50px;
+}
+.hor {
+    display: flex;
+    flex-direction: row;
+}
